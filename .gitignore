@@ -1,7 +1,10 @@
-#server 
+# Node modules
+client_test/node_modules/
 server_test/node_modules/
+
+# Environment files
+client_test/.env
 server_test/.env
 
-# client
-client_test/client/node_modules/
-client_test/client/.env
+# System files
+.DS_Store
