@@ -1,9 +1,9 @@
 # Node modules
-client_test/node_modules/
+client_test/client/node_modules/
 server_test/node_modules/
 
 # Environment files
-client_test/.env
+client_test/client/.env
 server_test/.env
 
 # System files
